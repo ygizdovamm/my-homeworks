@@ -1,2 +1,5 @@
 1.milk
 2.jam
+3.chocolate
+4.apples
+5.oranges
