@@ -8,7 +8,7 @@ public class Triangleperimeter {
         double b = 6.7;
         double c = 11;
 
-        System.out.println(a+b+c);
+        System.out.println(a + b + c);
 
     }
 }
